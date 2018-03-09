@@ -11,7 +11,19 @@ var defaultClientFonts = {
 		bold: 'Roboto-Medium.ttf',
 		italics: 'Roboto-Italic.ttf',
 		bolditalics: 'Roboto-MediumItalic.ttf'
-	}
+	},
+	THSarabun: {
+		normal: 'THSarabun.ttf',
+		bold: 'THSarabun-Bold.ttf',
+		italics: 'THSarabun-Italic.ttf',
+		bolditalics: 'THSarabun-Bold-Italic.ttf'
+	},
+	THSarabunNew: {
+		normal: 'THSarabunNew.ttf',
+		bold: 'THSarabunNew-Bold.ttf',
+		italics: 'THSarabunNew-Italic.ttf',
+		bolditalics: 'THSarabunNew-BoldItalic.ttf'
+	},
 };
 
 function Document(docDefinition, tableLayouts, fonts, vfs) {
